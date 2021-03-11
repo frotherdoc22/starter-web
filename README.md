@@ -12,7 +12,7 @@ Will not be deployed, though could be on any server.
 
 ## How to Contribute
 
-Basically don't.
+Fork this repository then issue PULL to review.
 
 ### Copyright
 
